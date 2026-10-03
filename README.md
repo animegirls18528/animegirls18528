@@ -67,13 +67,6 @@
 ---
 
 
-
-### 🐍 Activity Graph
-
-[![animegirls18528's github activity](https://github-readme-activity-graph.vercel.app/graph?username=animegirls18528&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=animegirls18528&color=7AA2F7&style=for-the-badge)
